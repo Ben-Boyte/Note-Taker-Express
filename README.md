@@ -1,6 +1,6 @@
 # Note Taker Express
 
-## [Application](https://limitless-castle-20209.herokuapp.com/)
+## [Application] (https://bensnotetakerexpress.herokuapp.com/)
 
 ## Description
 A website to take and store notes using express.js
