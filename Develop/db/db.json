@@ -4,11 +4,6 @@
       "title": "New Note",
       "text": "This is text",
       "id": "0"
-    },
-    {
-      "title": "Hello!",
-      "text": "This is a note that should show up in the db file",
-      "id": "1"
     }
   ]
 }
