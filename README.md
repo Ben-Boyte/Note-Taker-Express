@@ -1,8 +1,6 @@
 # Note Taker Express
 
-## Application
-
-[Launched-Application](https://limitless-castle-20209.herokuapp.com/)
+## [Application](https://limitless-castle-20209.herokuapp.com/)
 
 ## Description
 A website to take and store notes using express.js
@@ -17,10 +15,6 @@ A website to take and store notes using express.js
     
   _How to install this application:_
   npm i (express, node)
-      
-## Usage
-  _Instructions for use:_
-  Enter notes on website
       
 ## Questions
 
