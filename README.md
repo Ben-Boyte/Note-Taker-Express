@@ -1,6 +1,6 @@
 # Note Taker Express
 
-## [Application] (https://bensnotetakerexpress.herokuapp.com/)
+## [Application](https://bensnotetakerexpress.herokuapp.com/)
 
 ## Description
 A website to take and store notes using express.js
